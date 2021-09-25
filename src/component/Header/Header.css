@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: 0; */
+}
+.nav-style{
+    color:white;
+}
+.name{
+    font-weight: 900;
+    color:red;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px 20px;
+    padding: 5px 20px;
+    
+}
+.name a{
+    margin-right: 15px;
+    text-decoration: none;
+}
